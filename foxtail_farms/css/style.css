@@ -36,6 +36,12 @@ padding: 0 !important;
     
   }
 
-  #navbar{
-    color: black;
-  }
+nav.bg-light{
+  background-color: #e1a177 !important;
+}
+
+
+.btn{
+  background-color: #000 !important;
+  color: #e1a177 !important;
+}
